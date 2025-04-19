@@ -1,0 +1,16 @@
+
+
+# Node.js dependencies
+/node_modules/
+
+# Editor and OS specific files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*~
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

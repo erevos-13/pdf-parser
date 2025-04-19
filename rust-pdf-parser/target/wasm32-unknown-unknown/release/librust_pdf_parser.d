@@ -1,0 +1,1 @@
+/Volumes/coding/projects/webassemply/pdf-parser/rust-pdf-parser/target/wasm32-unknown-unknown/release/librust_pdf_parser.rlib: /Volumes/coding/projects/webassemply/pdf-parser/rust-pdf-parser/src/lib.rs

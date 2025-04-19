@@ -1,0 +1,10 @@
+/Volumes/coding/projects/webassemply/pdf-parser/rust-pdf-parser/target/wasm32-unknown-unknown/release/deps/liblog-78491f1876b20fd1.rmeta: /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/lib.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/macros.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/serde.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/__private_api.rs
+
+/Volumes/coding/projects/webassemply/pdf-parser/rust-pdf-parser/target/wasm32-unknown-unknown/release/deps/liblog-78491f1876b20fd1.rlib: /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/lib.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/macros.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/serde.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/__private_api.rs
+
+/Volumes/coding/projects/webassemply/pdf-parser/rust-pdf-parser/target/wasm32-unknown-unknown/release/deps/log-78491f1876b20fd1.d: /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/lib.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/macros.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/serde.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/__private_api.rs
+
+/Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/lib.rs:
+/Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/macros.rs:
+/Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/serde.rs:
+/Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/__private_api.rs:

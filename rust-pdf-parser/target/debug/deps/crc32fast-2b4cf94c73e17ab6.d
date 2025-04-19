@@ -1,0 +1,9 @@
+/Volumes/coding/projects/webassemply/pdf-parser/rust-pdf-parser/target/debug/deps/libcrc32fast-2b4cf94c73e17ab6.rmeta: /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/lib.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/baseline.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/combine.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/specialized/mod.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/table.rs
+
+/Volumes/coding/projects/webassemply/pdf-parser/rust-pdf-parser/target/debug/deps/crc32fast-2b4cf94c73e17ab6.d: /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/lib.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/baseline.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/combine.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/specialized/mod.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/table.rs
+
+/Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/lib.rs:
+/Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/baseline.rs:
+/Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/combine.rs:
+/Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/specialized/mod.rs:
+/Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/crc32fast-1.4.2/src/table.rs:

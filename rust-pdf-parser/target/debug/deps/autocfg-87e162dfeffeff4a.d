@@ -1,0 +1,10 @@
+/Volumes/coding/projects/webassemply/pdf-parser/rust-pdf-parser/target/debug/deps/libautocfg-87e162dfeffeff4a.rmeta: /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.4.0/src/lib.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.4.0/src/error.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.4.0/src/rustc.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.4.0/src/version.rs
+
+/Volumes/coding/projects/webassemply/pdf-parser/rust-pdf-parser/target/debug/deps/libautocfg-87e162dfeffeff4a.rlib: /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.4.0/src/lib.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.4.0/src/error.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.4.0/src/rustc.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.4.0/src/version.rs
+
+/Volumes/coding/projects/webassemply/pdf-parser/rust-pdf-parser/target/debug/deps/autocfg-87e162dfeffeff4a.d: /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.4.0/src/lib.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.4.0/src/error.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.4.0/src/rustc.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.4.0/src/version.rs
+
+/Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.4.0/src/lib.rs:
+/Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.4.0/src/error.rs:
+/Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.4.0/src/rustc.rs:
+/Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.4.0/src/version.rs:

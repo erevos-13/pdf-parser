@@ -1,0 +1,10 @@
+/Volumes/coding/projects/webassemply/pdf-parser/rust-pdf-parser/target/wasm32-unknown-unknown/release/deps/libweezl-e13a776aa1b61680.rmeta: /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/weezl-0.1.8/src/lib.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/weezl-0.1.8/src/decode.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/weezl-0.1.8/src/encode.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/weezl-0.1.8/src/error.rs
+
+/Volumes/coding/projects/webassemply/pdf-parser/rust-pdf-parser/target/wasm32-unknown-unknown/release/deps/libweezl-e13a776aa1b61680.rlib: /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/weezl-0.1.8/src/lib.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/weezl-0.1.8/src/decode.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/weezl-0.1.8/src/encode.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/weezl-0.1.8/src/error.rs
+
+/Volumes/coding/projects/webassemply/pdf-parser/rust-pdf-parser/target/wasm32-unknown-unknown/release/deps/weezl-e13a776aa1b61680.d: /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/weezl-0.1.8/src/lib.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/weezl-0.1.8/src/decode.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/weezl-0.1.8/src/encode.rs /Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/weezl-0.1.8/src/error.rs
+
+/Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/weezl-0.1.8/src/lib.rs:
+/Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/weezl-0.1.8/src/decode.rs:
+/Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/weezl-0.1.8/src/encode.rs:
+/Users/orpheasboutsarides/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/weezl-0.1.8/src/error.rs:
